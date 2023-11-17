@@ -1,4 +1,4 @@
-CHALLENGE 6
+**CHALLENGE 6**
 Backend media handling berupa image profile menggunakan imagekit.io 
 
 DAFTAR API 
